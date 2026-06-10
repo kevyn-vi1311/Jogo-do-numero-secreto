@@ -6,9 +6,7 @@ Este projeto é um jogo de adivinhação interativo onde o usuário tenta descob
 
 Confira abaixo a interface e o funcionamento do projeto:
 
-<p align="center">
-  <img src="./img/[ezgif-5acd6022fe929a7d.gif](https://raw.githubusercontent.com/kevyn-vi1311/Jogo-do-numero-secreto/refs/heads/main/ezgif-5acd6022fe929a7d.gif)" width="600"/>
-</p>
+![Demonstração](./ezgif-5acd6022fe929a7d.gif)
 
 ## 🛠️ Tecnologias e Conceitos Aplicados
 
@@ -56,7 +54,7 @@ Refatorar o código para torná-lo mais organizado e melhorar a experiência do 
 Você pode testar o jogo através do link abaixo:
 
 🔗 **Link do jogo online (Vercel)**  
-👉 https://seu-link-vercel.vercel.app  
+👉 [https://seu-link-vercel.vercel.app  ](https://jogo-do-numero-secreto-lovat-xi.vercel.app/)
 
 ---
 

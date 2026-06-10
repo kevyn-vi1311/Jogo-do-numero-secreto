@@ -6,10 +6,7 @@ Este projeto é um jogo de adivinhação interativo onde o usuário tenta descob
 
 Confira abaixo a interface e o funcionamento do projeto:
 
-##imagem
-
-
-
+![Demonstração](./img/ezgif-5acd6022fe929a7d.gif)
 
 ## 🛠️ Tecnologias e Conceitos Aplicados
 
